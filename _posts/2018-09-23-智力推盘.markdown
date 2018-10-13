@@ -1,0 +1,20 @@
+---
+permalink: /game/NPuzzle
+layout: default
+title:  "智力推盘"
+categories: game
+date:   2018-09-23 12:50:00 +0800
+homepage: http://brainko.top/NPuzzle/
+icon: http://brainko.top/NPuzzle/favicon.ico
+download: 
+thumbnail: NPuzzle.png
+---
+<div class="text-center">
+  <iframe
+      width="320" 
+      height="480" 
+      src="{{ page.homepage }}"
+      frameborder="0" 
+      allowfullscreen>
+  </iframe>
+</div>

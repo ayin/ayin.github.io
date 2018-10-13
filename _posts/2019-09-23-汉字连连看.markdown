@@ -1,0 +1,20 @@
+---
+permalink: /game/HZLink
+layout: default
+title:  "汉字连连看"
+categories: game
+date:   2018-09-23 12:50:00 +0800
+homepage: http://brainko.top/HZLink/
+icon: 
+download: 
+thumbnail: HZLink.jpeg
+---
+<div class="text-center">
+  <iframe
+      width="320" 
+      height="568" 
+      src="{{ page.homepage }}"
+      frameborder="0" 
+      allowfullscreen>
+  </iframe>
+</div>
