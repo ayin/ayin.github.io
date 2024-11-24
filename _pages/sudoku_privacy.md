@@ -119,7 +119,7 @@ permalink: /sudoku/privacy
 ## 四、我们如何共享、转让、公开披露您的个人信息
 1. 我们会以高度的勤勉义务对待您的信息，除非获得您的明确同意，我们不会与本公司以外的任何公司、组织和个人分享您的个人信息，但经过处理无法识别特定个人且不能复原的除外。目前，我们会在以下情形中，向您征求您对共享个人信息的授权同意：
 
-(1) 我们的APP集成了《穿山甲SDK》，穿山甲SDK需要读取您的设备信息，包括：设备标识符（如IMEI、OAID、IMSI、ICCID、GAID（仅GMS服务）、MEID、设备序列号build_serial、软件安装列表等。具体请见《穿山甲平台隐私政策》https://www.csjplatform.com/privacy ；
+(1) 我们的APP集成了《穿山甲SDK》，穿山甲SDK需要读取您的设备信息，包括：Android ID、MAC地址、IP、设备硬件序列号、IMEI、设备标识符（如IMEI、OAID、IMSI、ICCID、GAID（仅GMS服务）、MEID、设备序列号build_serial、软件安装列表等。具体请见《穿山甲平台隐私政策》https://www.csjplatform.com/privacy ；
 
 (2) 我们的APP集成了《TapSDK》，TapSDK需要读取您的设备信息，包括：Android ID、设备传感器信息等。具体请见《TapSDK 隐私政策》https://developer.taptap.cn/docs/sdk/start/agreement/；
 
