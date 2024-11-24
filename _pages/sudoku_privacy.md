@@ -1,62 +1,155 @@
 ---
 layout: page
-title: Privacy Policy
+title: 《数独》隐私政策
 permalink: /sudoku/privacy
 ---
 
-## Introduction
+# 《数独》 隐私政策
 
-This SERVICE("Sudoku") is provided by us at no cost and is intended for use as is.
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that We collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Sudoku unless otherwise defined in this Privacy Policy.
+生效日期：2023年10月06日
+更新日期：2024年11月24日
 
+欢迎您访问我们的产品。《数独》（包括App等产品提供的服务，以下简称“产品和服务”）是由 沐宸工作室 （以下简称“我们”）开发并运营的。 确保用户的数据安全和隐私保护是我们的首要任务， 本隐私政策载明了您访问和使用我们的产品和服务时所收集的数据及其处理方式。
+请您在继续使用我们的产品前务必认真仔细阅读并确认充分理解本隐私政策全部规则和要点， 一旦您选择使用，即视为您同意本隐私政策的全部内容，同意我们按其收集和使用您的相关信息。 如您在在阅读过程中，对本政策有任何疑问，可联系我们的客服咨询， 请通过 ayin1989dy@qq.com 或产品中的反馈方式与我们取得联系。 如您不同意相关协议或其中的任何条款的，您应停止使用我们的产品和服务。
 
-## Information Collection and Use
+本隐私政策帮助您了解以下内容：
+一、适用范围
+二、我们如何收集和使用您的个人信息
+三、我们如何使用 Cookie 和同类技术
+四、我们如何共享、转让、公开披露您的个人信息
+五、您如何管理自己的信息
+六、我们如何存储您的个人信息
+七、我们如何保护您的个人信息
+八、未成年人保护
+九、本政策的修订
+十、争议管辖
+十一、联系我们
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by us in any way.
-The app does use third-party services that may collect information used to identify you.
-Link to the privacy policy of third-party service providers used by the app
-   - [Google Play Services](https://policies.google.com/privacy)
-   - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-
-## Log Data
-
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
-
-## Cookies
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-## Service Providers
-
-We may employ third-party companies and individuals due to the following reasons:
-    -   To facilitate our Service;
-    -   To provide the Service on our behalf;
-    -   To perform Service-related services; or
-    -   To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-## Security
-
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
-## Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## 一、适用范围
+1. 本隐私政策适用于除某些特定产品和服务外，我们提供的所有服务。这些特定产品和服务将适用特定的隐私政策。
+2. 需要特别说明的是，本隐私政策不适用于除本隐私政策第四条约定经您确认的与第三方共享信息外其他第三方向您提供的服务。请您知悉：如果您浏览第三方网站或使用第三方产品、服务时向其提供个人信息，则您的信息应当适用该第三方的隐私政策，我们不承担任何法律责任，请您届时务必仔细阅读该第三方的隐私政策并确认是否接受。
 
 
-## Children’s Privacy
+## 二、我们如何收集和使用您的个人信息
+个人信息是指以电子或者其他方式记录的能够单独或者与其他信息， 结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。 我们根据《中华人民共和国网络安全法》和《信息安全技术个人信息安全规范》（GB/T 35273-2017） 以及其它相关法律法规的要求，并严格遵循正当、合法、必要的原则， 出于您使用我们提供的服务和/或产品等过程中而收集和使用您的个人信息，包括但不限于偏好及兴趣等。
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that We will be able to do the necessary actions.
+我们提供的产品和服务需要依赖您的部分信息才得以运行，因此在您使用我们服务的时候，需要向我们提供或允许我们收集的必要信息以供我们使用这些信息向您提供基本服务及更优更好的服务，包括：
 
+1. 您主动提供给我们的信息
+(1) 帮助您成为我们的用户，您填写的注册信息，包括您电话号码，以用于注册、登录账户使用我们的产品和服务，参加运营活动，及我们的客服和售后为您提供咨询服务，并保障您的账户安全。如不提供，您将仅能浏览、了解我们的服务，无法享受相关服务；如果您仅需使用浏览、了解，您不需要注册成为我们的用户及提供上述信息；
+(2) 便于我们向您提供服务，您填写的个人资料，包括您的姓名或昵称、性别、个人简介、身份。您可以根据是否需要上述服务选择是否提供上述信息；如不提供，不会影响您使用本产品的其他功能和服务。
+(3) 当您与我们联系时，我们可能会保存您的通信或通话记录和内容或您留下的联系方式，以便帮助您解决问题，或记录相关问题的处理方案及结果。我们的客服会使用您的帐号信息与您核验您的身份。您有可能会在与我们的客服人员沟通时，提供给出上述信息外的其他信息。如不提供，不会影响您使用本产品的其他功能和服务。
+(4) 根据国家新闻出版署印发《关于防止未成年人沉迷网络游戏的通知》，游戏必须进行实名认证，用户必须输入姓名和身份证号进行实名认证。我们不会对用户信息进行保存，仅做实名校验。
 
-## Changes to This Privacy Policy
+2. 我们在您使用服务过程中收集的信息，除法律规定情形外我们都将事先征得您的同意：
+(1) 在您首次使用打开我们的APP时，我们将在取得您的授权后，接收并记录您所使用的设备相关信息，包括国际移动设备识别码（IMEI、IMSI）、序列号、唯一设备标识符、WIFI热点的MAC地址、msa（oaidlib）、mac地址、系统版本、系统语言、开机时间、运营商、国家代码、手机品牌、手机型号、内存大小、cpu类型、硬盘大小、默认输入法、默认浏览器、广告标识符信息、屏幕尺寸、系统更新时间、设备版本、手机样式，以验证用户所使用设备是否是合法设备，进行安全校验，保障您的账户及交易安全；
+(2) 在您首次使用打开我们的APP时，我们将在您授权后读取您的读取手机状态，用以保障APP应用服务的正常使用，更准确定位和解决在使用时遇到的问题，改进及优化APP服务体验，及保障您的账号安全；
+(3) 在您打开并使用我们的APP时，我们将使用您的 WIFI信息和ssid信息，获取网络状态信息，以用于判断网络变化和完成网络定位功能。
+(4) 在您首次使用打开我们的APP、获取设备等信息，我们将申请您的存储／（和相册）权限，以用于提供发送消息服务、保存图片、文件或缓存信息到手机；
+(5) 为对您的设备进行性能检测和用户标识，当APP在后台运行期间，app可能会再次读取您的相关信息，包括：MAC地址、任务列表、Wi-Fi信息，我们将把读取频次控制在合理范围内。
+(6) 在您打开并使用我们的APP时，我们将申请您的应用软件安装列表权限，以用于广告投放和反作弊功能。
+(7) 在您使用我们的APP时，我们在相关业务功能中可能还需要您开启设备的其他访问权限，如您不需要使用相关业务功能，您可以拒绝开启这些权限，不影响您使用本产品其他功能和服务。详细权限和使用目的如下：
+1) 推送权限，用于支持消息推送功能。
+2) 读写系统设置权限，用于缓存标识用户设备信息数据。
+3) 获取程序近期任务列表权限，用于判断APP的运行状态。
+4) 如您使用的是华为手机，我们将申请华为桌面角标权限，用于实现启动icon角标提醒功能
+5) 在您使用APP期间，我们将申请网络状态权限，以用于判断网络变化。
+6) 在应用问题排查时，我们将读取系统底层日志和系统底层日志友盟，用于日志查找，辅助定位APP问题。
+7) 软件功能中有上传头像功能，需要调用系统相机，要获取相机权限；
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-This policy is effective as of 2023-10-06
+3. 事先征得同意的例外：
+(1) 与个人信息控制者履行法律法规规定的义务相关的；
+(2) 与国家安全、国防安全直接相关的；
+(3) 与公共安全、公共卫生、重大公共利益直接相关的；
+(4) 与刑事侦查、起诉、审判和判决执行等直接相关的；
+(5) 出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人授权同意的；
+(6) 所涉及的个人信息是个人信息主体自行向社会公众公开的；
+(7) 根据个人信息主体要求签订和履行合同所必需的；
+(8) 从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；
+(9) 维护所提供产品或服务的安全稳定运行所必需的，如发现、处置产品或服务的故障。
 
-## Contact Us
+4. 匿名化处理
+对于我们收集到的您的信息，我们将通过技术手段及时进行匿名化处理。在不泄露您个人信息的前提下，我们有权对匿名化处理后的用户数据进行分析、挖掘和利用，有权对产品的使用情况进行统计分析并用于可能的第三方信息共享。
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at ayin1989dy@gmail.com.
+## 三、我们如何使用 Cookie 和其他追踪技术
+为确保产品正常运转，我们会在您的计算机或移动设备上存储名为 Cookie 的小数据文件。 Cookie 通常包含标识符、产品名称以及一些号码和字符。 借助于 Cookie，我们能够存储您的偏好或商品等数据，并用以判断注册用户是否已经登录， 提升服务和产品质量及优化用户体验。
+我们出于不同的目的使用各种Cookie，包括：严格必要型Cookie、性能Cookie、营销Cookie和功能Cookie。 某些Cookie可能由外部第三方提供，以向我们的产品提供其它功能。 我们不会将 Cookie 用于本政策所述目的之外的任何用途。您可根据自己的偏好管理或删除 Cookie。 您可以清除计算机上或手机中保存的所有 Cookie，大部分网络浏览器都设有阻止或禁用 Cookie 的功能， 您可对浏览器进行配置。阻止或禁用 Cookie 功能后，可能影响您使用或不能充分使用我们的产品和服务。
+
+## 四、我们如何共享、转让、公开披露您的个人信息
+1. 我们会以高度的勤勉义务对待您的信息，除非获得您的明确同意，我们不会与本公司以外的任何公司、组织和个人分享您的个人信息，但经过处理无法识别特定个人且不能复原的除外。目前，我们会在以下情形中，向您征求您对共享个人信息的授权同意：
+(1) 我们的APP集成了《穿山甲SDK》，穿山甲SDK需要读取您的设备信息，包括：设备标识符（如IMEI、OAID、IMSI、ICCID、GAID（仅GMS服务）、MEID、设备序列号build_serial、软件安装列表等。具体请见《穿山甲平台隐私政策》https://www.csjplatform.com/privacy ；
+(2) 我们的APP集成了《TapSDK》，TapSDK需要读取您的设备信息，包括：Android ID、设备传感器信息等。具体请见《TapSDK 隐私政策》https://developer.taptap.cn/docs/sdk/start/agreement/；
+
+我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息。对我们与之共享个人信息的公司、组织和个人，我们会与其签署严格的保密协定，要求他们按照我们的说明、本政策以及其他任何相关的保密和安全措施来处理信息，信息接收方对您的信息仅有有限的访问权，他们还需承担合同义务，包括不限于使用合法合规的方式获取您的信息，采取合理的安全措施保护您的信息，根据法律规定及与我们的约定承担相应的法律责任。对于一些开源、免费的合作方出现如果出现泄露您的信息等侵犯您个人权益的行为，我们承担相应的责任。
+
+2. 我们不会非法出售、非法向他人提供您的信息；我们不会将您的该等信息提供给任何第三方，也不会用于任何其他目的和用途，但是以下情形除外：
+(1) 经您事先同意，向第三方披露；
+(2) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
+(3) 在我们提供服务时，可能将您的信息用于身份验证、客户服务、安全防范、诈骗监测、存档和备份等用途，以预防、发现、调查欺诈、危害安全、非法或违反与我们的协议、政策或规则的行为，以保护您、其他用户、我们的关联公司、合作伙伴及其他受信任的第三方供应商、服务商、代理商及社会公众的合法权益，以确保我们向您提供的产品和服务的安全性；
+(4) 我们与第三方合作向您提供我们平台的相关服务或其他网络服务，且该等第三方同意承担与我们同等的保护用户隐私的责任；
+(5) 其他根据法律、法规或者政策应进行的披露。
+
+3. 我们仅会在以下情形下，公开披露您的个人信息
+(1) 获得您明确同意后；
+(2) 基于法律的披露：在法律、法律程序、诉讼或政府主管部门强制性要求的情况下，我们可能会公开披露您的个人信息。
+
+4. 共享、转让、公开披露个人信息时事先征得授权同意的例外：
+(1) 与个人信息控制者履行法律法规规定的义务相关的；
+(2) 与国家安全、国防安全直接相关的；
+(3) 与公共安全、公共卫生、重大公共利益直接相关的；
+(4) 与刑事侦查、起诉、审判和判决执行等直接相关的；
+(5) 出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人授权同意的；
+(6) 个人信息主体自行向社会公众公开的个人信息；
+(7) 从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。
+
+5. 根据法律规定，共享、转让、披露经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别信息主体的，不属于个人信息的对外共享、转让及公开披露行为，对此类数据的保存及处理无需另行征得您的同意。
+
+## 五、您如何管理自己的信息
+按照中国相关的法律、法规、标准，以及其他国家、地区的通行做法，我们保障您对自己的个人信息行使以下权利：
+1. 查询权
+您有权查询您的个人信息，法律法规规定的情形例外除外。
+
+2. 更正权
+
+3. 删除权
+以下情形下，您可以向我们提出删除个人信息的请求：
+(1) 如果我们处理个人信息的行为违反法律法规；
+(2) 如果我们收集、使用您的个人信息，却未征得您的同意；
+(3) 如果我们处理个人信息的行为违反了与您的约定；
+(4) 如果您不再使用我们的产品或服务，或您注销了账号；
+(5) 如果我们不再为您提供产品或服务。
+当您决定删除某项或某几项信息时，您可以联系客服进行删除，发送邮件至ayin1989dy@qq.com。
+
+4. 撤销权
+(1) 如果您撤销一项或多项权限授权，您可以通过“手机-设置-应用和服务-应用管理-数独APP-存储-删除数据”实现。请您注意，不同的设备中，路径可能有所不同，具体参考您的设备及系统开发方的说明和指引。
+当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的服务，也将不再处理您相应的个人信息。但您撤回同意或授权的决定，不会影响此前基于您的同意或授权而开展的个人信息处理。
+
+## 六、我们如何存储您的个人信息
+我们在中华人民共和国境内运营中收集和产生的个人信息，原则上存储在中国境内，并按照中国中华人民共和国法律法规、部门规章等规定的存储期限存储您的个人信息，存储期限为您使用我们APP的期限或者向我们APP发出删除您的个人信息之前，当您要求删除该存储信息或者决定停止使用APP注销账号之时，我们将及时删除您的个人信息。同时只会在达成本隐私政策所述目的所需的期限内保留您的个人信息，除非法律有强制的存留要求。例如《中华人民共和国电子商务法》要求商品和服务信息、交易信息保存时间自交易完成之日起不少于三年；《教育部等六部门关于规范校外线上培训的实施意见》规定，用户行为日志须留存1年以上。就服务所涉及的用户行为日志，我们将进行匿名化处理。判断前述期限的标准包括：
+（1）完成与您相关的交易目的、维护相应交易及业务记录、应对您可能的查询或投诉；
+（2）保证平台为您提供服务的安全和质量；
+（3）您是否同意更长的留存期间；
+（4）是否存在保留期限的其他特别约定。
+在您的个人信息超出保留期间后，公司会根据适用法律的要求删除您的个人信息，或使其匿名化处理（如您为未成年人，在您的个人信息超出保留期间后，公司会按照相关法律法规要求对您的个人信息进行相应处理）。如因特殊情形无法按照相关要求删除的，公司将对该部分事项向您进行说明。
+
+## 七、我们如何保护您的个人信息
+1. 我们非常重视您的个人信息安全。我们努力采取各种合理的物理、电子和管理方面的安全措施来保护您的个人信息，并尽最大合理努力使您的个人信息不会被泄漏、毁损或者丢失，包括但不限于SSL、信息加密存储、数据中心的访问控制。我们对可能接触到您个人信息的员工或外包人员也采取了严格管理，包括但不限于采取信息访问权限控制、与接触个人信息的人员签署保密协议、监控该等人员的操作情况等措施。
+2. 尽管有上述第1款的约定，但是请您理解并明白，由于存在各种各样无法预知或现有技术无法防御的恶意手段，即便我们已经尽力采取必要的保护措施，您的信息仍有可能被泄露、毁损或灭失。如您发现您的账号、密码因任何原因已经或者将要泄露时，您应当立即跟我们联系，以便我们可以及时采取应对措施防止或减少您的相关损失。
+3. 如果我们发生企业合并、分立等情形的，则您的信息将由届时存续的企业主体继续履行保护义务，并由我们以公告、短信或其他书面方式通知您；如果我们的产品、服务停止运营的，则我们将及时停止继续收集您的信息，并以公告、短信等方式通知您，届时我们将对您的信息进行删除或隐匿化处理。
+
+## 八、未成年人保护
+我们重视未成年人的个人信息保护，如您为十八周岁以下的未成年人，请在您的监护人指导下仔细阅读本隐私政策，并在征得您的监护人同意的前提下使用我们的服务及提交您的个人信息。如您的监护人不同意本隐私政策，您应立即停止使用我们的服务并拒绝提供个人信息。
+
+## 九、本隐私政策如何更新
+我们可能会不时更新我们的隐私政策。因此，建议您定期查看此页面以了解任何更改。我们将通过在此页面上发布新的隐私政策来通知您任何更改。
+本政策自 2024-11-24 起生效
+
+## 十、争议管辖
+1. 本隐私政策的签订、生效、履行、争议的解决均适用中华人民共和国法律。
+2. 有关本协议的争议应通过友好协商解决，如果协商不成，该争议将提交公司所在地有管辖权的法院诉讼解决。
+
+## 十一、联系我们
+如您对本隐私政策的内容及相关事宜有任何疑问、意见或建议，您可以通过以下方式与我们联系。
+邮箱：ayin1989dy@qq.com
+
+本页面内容具有多种语言版本，若其他语言版本与简体中文版本发生冲突，应以简体中文版本为准。
